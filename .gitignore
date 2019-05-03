@@ -1,0 +1,9 @@
+target/
+.settings/
+.classpath
+.project
+.factorypath
+*.iml
+.idea/
+Application/
+LOG_PATH_IS_UNDEFINED/
